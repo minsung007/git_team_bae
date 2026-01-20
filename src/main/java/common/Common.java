@@ -11,5 +11,9 @@ public class Common {
 		
 		return area;
 	}
+
+	public int getTotal() {
+		return 320;
+	}
 	
 }
