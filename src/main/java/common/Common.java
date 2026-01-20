@@ -3,7 +3,7 @@ package common;
 public class Common {
 
 	public String getName() {
-		return "홍길동";
+		return "김연세";
 	}
 	
 	public String getArea() {
