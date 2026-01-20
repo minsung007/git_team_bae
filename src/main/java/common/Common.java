@@ -11,9 +11,15 @@ public class Common {
 		
 		return area;
 	}
+<<<<<<< HEAD
 	public int getAge() {
 		int age = 12;
 		
 		return age;
 	}
+
+	public int getTotal() {
+		return 320;
+	}
+	
 }
